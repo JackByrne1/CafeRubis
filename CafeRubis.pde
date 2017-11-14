@@ -1,4 +1,6 @@
 //Jack Byrne C16450832
+// I pushed this like 10 times thinking it was commiting ever time
+// I only realised after that you have to commit each time
 int y = 50;
 
 void setup(){
